@@ -88,3 +88,4 @@
     console.log("my new value in number 'with error' " + myConstVariable );
     
 
+/// challenge completed 
